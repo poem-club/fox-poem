@@ -49,4 +49,4 @@ The repo takes a poem as the example to explain the git and github concepts.
   - Windows: Download the Git Bash https://git-scm.com/downloads
   - More on https://github.com/git-guides/install-git
 
-Great thanks to UAL CCI, Phoenix Perry, and Dan Shiffman for the encouragements and support.
+Great thanks to UAL CCI, Phoenix Perry, Mick Grierson, and Dan Shiffman for the encouragements and support.
